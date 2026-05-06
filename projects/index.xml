@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Ishan Jawade</title>
-    <link>https://ishanjawade.github.io/</link>
-    <description>Recent content in Home on Ishan Jawade</description>
+    <title>Projects on Ishan Jawade</title>
+    <link>https://ishanjawade.github.io/projects/</link>
+    <description>Recent content in Projects on Ishan Jawade</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ishanjawade.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Laptop Buying Guide For Students by A Student</title>
-      <link>https://ishanjawade.github.io/blog/laptop-buying_guide_for_students_by_a_student/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://ishanjawade.github.io/blog/laptop-buying_guide_for_students_by_a_student/</guid>
-      <description>It&amp;rsquo;s a guide for students to buy laptops based on their needs.</description>
-    </item>
+    <atom:link href="https://ishanjawade.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bare-Metal LED on ATmega328P</title>
       <link>https://ishanjawade.github.io/projects/bare-metal-atmega/</link>
